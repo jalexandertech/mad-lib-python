@@ -2,8 +2,6 @@
 This program is to present my skill in Python. I will build a mad lib based on what I have learned from w3schools and codecademy. 
 
 Mad Lib - Story will be about someone's vacation. 
-
-I will include nouns, adjective, name, a place, verbs, animals, food, number, and a type of transportation
 """
 # Variables
 
